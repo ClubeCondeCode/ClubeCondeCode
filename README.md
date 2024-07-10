@@ -1,3 +1,4 @@
-#Seja bem-vindo
+# Seja bem-vindo
 
-<p>esse é um repositorio de trabalhos do clube Conde Code</p>
+<p><strong>esse é um repositorio de trabalhos do clube Conde Code</strong></p>
+
